@@ -38,27 +38,6 @@
     <script src="./assets/-uv/config.js?v=6-17-2024"></script>
     <script src="https://kit.fontawesome.com/1237c86ba0.js" crossorigin="anonymous"></script>
     <script src="/assets/js/main.js?v=90"></script>
-    <script>const pChangeElement = document.getElementById("pChange");
-
-  if (pChangeElement) {
-    pChangeElement.addEventListener("change", function () {
-      const selectedOption = this.value;
-      pChange(selectedOption);
-    });
-
-    const storedP = localStorage.getItem("uv");
-    if (storedP === "true") {
-      pChangeElement.value = "uv";
-    } else if (
-      localStorage.getItem("dy") === "true" ||
-      localStorage.getItem("dy") === "auto"
-    ) {
-      pChangeElement.value = "dy";
-    } else {
-      pChangeElement.value = "uv";
-    }
-  }
-});</script>
     <!-- DO NOT REMOVE-->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-WKJQ5QHQTJ"></script>
     <script>
