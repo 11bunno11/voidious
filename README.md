@@ -1,29 +1,18 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
-    <p>Interstellar but no ads, super cool; should be updated regualarly<p>
+    <p>Outerstellar but fixed, super cool; should be updated regualarly<p>
     <p>its forked, what'd you expect, a Plasma  TV?</p>
 </div>
 
-![inpreview](https://github.com/InterstellarNetwork/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
 
 > [!IMPORTANT]
 > If you fork this project, do whatever you want!
 
-~~**Join Our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**~~
-
 ## Features
-
-- About:Blank Cloaking
-- Tab Cloaking
-- Wide collection of apps & games
 - Clean, Easy to use UI
-- Inspect Element
-- Various Themes
 - Password Protection (Optional)
-- Built-in Tab System
-- Now.gg Support
+- Built-in Tab Syste
 - Fast Speeds
-- Geforce NOW Support
 
 ## Deployment
 
@@ -53,10 +42,6 @@ why update? dont f with it if it works (i f'ed up so im doing this all over agai
 
 
 
-### Deployment Alternatives
-
-For more deployment options, ~~join our [Discord Server](https://discord.gg/interstellar)~~ for various ways to deploy Interstellar.
-This includes methods of deploying to Render/OnRender.
 
 #### What happened to Replit Deployment?
 
@@ -83,19 +68,11 @@ As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/host
 3. Go to the ports tab, Click Forward A Port, And type the port number.
 4. Right-click Visibility and set Port Visibility to Public.
 
-> [!NOTE]
-> We are committed to making Interstellar easy and personalized however, as of now we need your support in making it ad-free. ~~Consider keeping ads so Interstellar can run freely or contribute by being a supporter.~~
 
 ## Report Issues
 
 If you encounter problems, open an issue on GitHub, and we'll address it promptly.
-
-> [!TIP]
-> If you're having trouble, don't hesitate to reach out to us on [Discord](https://discord.gg/interstellar) for personalized support. 
+ 
 
 # Credits
-
-A huge thanks goes out to all of the people who have contributed to Interstellar.
-
-[![Contributors](https://contrib.rocks/image?repo=InterstellarNetwork/Interstellar)](https://github.com/InterstellarNetwork/Interstellar/graphs/contributors)
-wau!
+me
