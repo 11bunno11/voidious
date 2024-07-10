@@ -40,6 +40,22 @@ img {
 	font-weight: 800;
 }
 
+.fixed-nav-bar .icon {
+	position: absolute;
+	float: left;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-family: "Inter", sans-serif;
+	cursor: pointer;
+	color: var(--text-primary);
+	font-weight: 600;
+	margin-left: 5px;
+	font-style: normal;
+	text-decoration: none;
+	transition: all 0.2s ease;
+	height: 5vh; /* Adjust this value as needed */
+	top: 18%;
+}
 
 
 .fixed-nav-bar-right {
