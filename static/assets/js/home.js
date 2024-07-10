@@ -171,17 +171,15 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Forked from interstellar",
+  "now on vercel",
   "Fastest growing proxy server",
   "reMade by 11bunno11",
-  "Check out discord.gg/interstellar )",
+  "only the necessary",
   "Now with Zero Ads!",
-  "Should i remove the analytics? Let me know!",
   "Thanks for using the site",
   "Follow me on Twitter/X  (@11bunno11)",
   "Follow me on Instagram  (11bun.no11)",
-  "Im on BlueSky too! to my Youtube (@11bunno11)",
-  "Check out the settings page",
+  "Im on BlueSky too! (@11bunno11)",
   "Check out my super cool website (https://11bunno11.neocities.org)",
 ];
 
