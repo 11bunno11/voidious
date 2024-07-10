@@ -5,12 +5,12 @@
 .fixed-nav-bar #icon-container {
 	display: flex;
 	align-items: center;
-	height: 100%;
+	height: 10%;
 }
 
 img {
-	width: 100%;
-	height: 100%;
+	width: 10%;
+	height: 10%;
 	padding-top: 5px;
 }
 

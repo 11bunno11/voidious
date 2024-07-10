@@ -15,7 +15,7 @@
 	--tab-inactive-background: ; /* Background Color for Tabs Not In Use */
 	--slider-active-background: #4caf50; /* Active Slider Background Color */
 	--slider-inactive-background: #ccc; /*  Slider Background Color */
-	--nav-image: url("/./assets/media/favicon/main.png"); /* Nav Logo */
+	--nav-image: url("/./assets/vs.jpeg"); /* Nav Logo */
 	/* Text Variables */
 	--text-primary: #fff; /* Primary Text Color */
 	--text-dark: #555; /* Dark Text Color for Error Page, Scrollbar, and Particles */
