@@ -32,6 +32,38 @@
         </div>
       </div>
     </div>
+    <script>function pChange(selectedValue) {
+    if (selectedValue === "uv") {
+      localStorage.setItem("uv", "true");
+      localStorage.setItem("dy", "false");
+    } else if (selectedValue === "dy") {
+      localStorage.setItem("uv", "false");
+      localStorage.setItem("dy", "true");
+    }
+  }
+
+  const pChangeElement = document.getElementById("pChange");
+
+  if (pChangeElement) {
+    pChangeElement.addEventListener("change", function () {
+      const selectedOption = this.value;
+      pChange(selectedOption);
+    });
+
+    const storedP = localStorage.getItem("uv");
+    if (storedP === "true") {
+      pChangeElement.value = "uv";
+    } else if (
+      localStorage.getItem("dy") === "true" ||
+      localStorage.getItem("dy") === "auto"
+    ) {
+      pChangeElement.value = "dy";
+    } else {
+      pChangeElement.value = "uv";
+    }
+  }
+});
+</script>
     <script src="assets/js/index.js?v=46"></script>
     <script src="/assets/js/home.js?v=26"></script>
     <script src="./assets/-uv/bundle.js?v=6-17-2024"></script>
