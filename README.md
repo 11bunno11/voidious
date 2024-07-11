@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
     <p>Outerstellar but fixed, super cool; should be updated regualarly<p>
-    <p>its forked, what'd you expect, a Plasma  TV??</p>
+    <p>its forked, what'd you expect, a Plasma  TV?</p>
 </div>
 
 
