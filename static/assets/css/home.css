@@ -7,9 +7,8 @@
 .title {
 	font-size: 10vh;
 	color: var(--text-primary);
-	font-family: "Inter", sans-serif;
+	font-family: "Major Mono Display", monospace;
 	text-align: center;
-	text-transform: uppercase;
 	border-radius: 0px 0px 5px 5px;
 	margin-top: 30vh;
 	margin-bottom: 5vh;
@@ -28,9 +27,8 @@
 		top: -10vw;
 		font-size: 10vw;
 		color: var(--text-primary);
-		font-family: "Inter", sans-serif;
+		font-family: "Major Mono Display", monospace;
 		text-align: center;
-		text-transform: uppercase;
 		border-radius: 0px 0px 5px 5px;
 	}
 }
