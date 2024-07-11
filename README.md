@@ -6,7 +6,7 @@
 
 
 > [!IMPORTANT]
-> If you fork this project, do whatever you want!
+> If you fork this project, do whatever you want!!
 
 ## Features
 - Clean, Easy to use UI
