@@ -1,3 +1,4 @@
+import "@tomphttp/bare-server-node"
 import http from "node:http";
 import path from "node:path";
 import { createBareServer } from "@tomphttp/bare-server-node";
