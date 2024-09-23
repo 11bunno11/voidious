@@ -75,4 +75,4 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
  
 
 # Credits
-me
+[Intertellar](https://github.com/UseInterstellar/Interstellar)
